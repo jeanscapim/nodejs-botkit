@@ -1,0 +1,13 @@
+{
+  "message": "Obrigado ...",
+  "senderUser": {
+      "slackId": "UJ45DFFD",
+      "nickname": "jean.scapim",
+      "name": "Jean Scapim"
+  },
+  "recipientUser": {
+      "slackId": "UJ45DFFD",
+      "nickname": "ramon.pereira",
+      "name": "Ramon Pereira"
+  }
+}

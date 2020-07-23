@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-botkit",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "botkit": "^0.6.20",
+    "cron": "^1.3.0",
+    "dotenv": "^4.0.0",
+    "githubhook": "^1.9.3",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.10"
+  }
+}

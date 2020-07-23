@@ -1,0 +1,32 @@
+{
+  "client_msg_id": "5d5aee72-5ef9-4ebf-a32a-e672f3e6e2e7",
+  "suppress_notification": false,
+  "type": "direct_message",
+  "text": "mandoubem <@UJQ3D3SR2> Pelo trabalho.",
+  "user": "UJQ3D3SR2",
+  "team": "TFC794VCK",
+  "user_team": "TFC794VCK",
+  "source_team": "TFC794VCK",
+  "channel": "DJKK7UWDP",
+  "event_ts": "1564189494.000200",
+  "ts": "1564189494.000200",
+  "raw_message": {
+    "client_msg_id": "5d5aee72-5ef9-4ebf-a32a-e672f3e6e2e7",
+    "suppress_notification": false,
+    "type": "message",
+    "text": "mandoubem <@UJQ3D3SR2> Pelo trabalho.",
+    "user": "UJQ3D3SR2",
+    "team": "TFC794VCK",
+    "user_team": "TFC794VCK",
+    "source_team": "TFC794VCK",
+    "channel": "DJKK7UWDP",
+    "event_ts": "1564189494.000200",
+    "ts": "1564189494.000200"
+  },
+  "_pipeline": {
+    "stage": "receive"
+  },
+  "match": [
+    "mandoubem"
+  ]
+}
