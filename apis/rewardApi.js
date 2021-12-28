@@ -1,7 +1,7 @@
 const request = require('request');
 const options = {
   headers: {
-    'Authorization': `Bearer ${process.env.TOKEN_RTE}`,
+    'Authorization': `Bearer ${process.env.TOKEN}`,
     'Content-Type': 'application/json'
   },
   json: true
