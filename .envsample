@@ -9,5 +9,5 @@ HELP_API_URL=<url>
 #### REWARD ####
 REWARD_API_URL=<url>
 
-#### RTE ####
-TOKEN_RTE=<token>
+#### TOKEN ####
+TOKEN=<token>
